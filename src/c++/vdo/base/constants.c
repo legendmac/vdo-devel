@@ -5,6 +5,8 @@
 
 #include "types.h"
 
+/* Trivial change to commit */
+
 /* The maximum logical space is 4 petabytes, which is 1 terablock. */
 const block_count_t MAXIMUM_VDO_LOGICAL_BLOCKS = 1024ULL * 1024 * 1024 * 1024;
 
